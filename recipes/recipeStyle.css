@@ -1,0 +1,28 @@
+#h4 #headerphoto{
+    margin-top: 20px;
+    border: 2.5px solid lightslategray;
+    width: 510px;
+    height: 410px;
+  }
+
+.text {
+    width: 600px;
+    margin-left: center;
+    background: lightgray;
+    border: 2px solid rgb(255 84 104);
+    padding: 10px;
+    margin: 10px;
+  }
+
+  #directions{
+    margin-bottom:  110px;
+  }
+
+#h2, #h3{
+    color: beige;
+    background-color: lightseagreen;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+

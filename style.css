@@ -1,0 +1,19 @@
+.header{
+    color: lightcoral;
+    background-color: burlywood;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: auto;
+}
+
+button{
+    box-sizing: border-box;
+    background-color: burlywood;
+    text-align: center;
+    color: lightcoral;
+    font-size: 20px;
+    font-weight: bold;
+    height: 100px;
+    width: 300px;
+    border: 10px solid black;
+    margin: 0 auto;
+    }
